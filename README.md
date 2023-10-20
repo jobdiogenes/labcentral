@@ -1,6 +1,6 @@
-# Quasar Estoque Supabase (quasar-estoque-supabase)
+# Quasar Store for Laboratories
 
-Project built on the Youtube Quasar + Supabase course: [Playlist on Youtube](https://www.youtube.com/watch?v=6ep8cy6pP74&list=PLBjvYfV_TvwIfgvouZCaLtgjYdrWQL02d&index=1)
+Project based on Patrick Monteiro Quasar Supabase
 
 ## Init Config
 
