@@ -1,6 +1,6 @@
 # Quasar Store for Laboratories
 
-Project 
+Project in initial developing can't be used at now
 
 ## Init Config
 
