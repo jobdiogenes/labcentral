@@ -1,10 +1,10 @@
 # Quasar Store for Laboratories
 
-Project based on Patrick Monteiro Quasar Supabase
+Project 
 
 ## Init Config
 
-You are required to configure the ***quasar.conf.js*** file with your supabase credentials.
+You must edit the ***quasar.conf.js*** file and add yours supabase credentials.
 
 ```js
 build: {
